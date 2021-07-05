@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "modul.ekz", "modul.ekz\modul.ekz.csproj", "{9D238178-7357-4BA9-A58D-84B7CCDB24B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{CFF85426-DE0E-4A2E-8DB4-77CA8D58E822}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9D238178-7357-4BA9-A58D-84B7CCDB24B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D238178-7357-4BA9-A58D-84B7CCDB24B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D238178-7357-4BA9-A58D-84B7CCDB24B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFF85426-DE0E-4A2E-8DB4-77CA8D58E822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFF85426-DE0E-4A2E-8DB4-77CA8D58E822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFF85426-DE0E-4A2E-8DB4-77CA8D58E822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFF85426-DE0E-4A2E-8DB4-77CA8D58E822}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

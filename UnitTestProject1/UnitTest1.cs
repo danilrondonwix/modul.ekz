@@ -12,19 +12,19 @@ namespace UnitTestProject1
         public void TestMethod1()
         {
             var Test = Cr.Input();
-            Assert.AreEqual(Cr.MaximumElem(Test), 8);
+            Assert.AreEqual(8, Cr.MaximumElem(Test));
         }
         [TestMethod]
         public void TestMethod2()
         {
             var Test = Cr.Input();
-            Assert.AreEqual(Cr.MinimalElem(Test), 2);
+            Assert.AreEqual(2, Cr.MinimalElem(Test));
         }
         [TestMethod]
         public void TestMethod3()
         {
             var Test = Cr.Input();
-            Assert.AreEqual(Cr.LenFunc(Test), 43);
+            Assert.AreEqual(43, Cr.LenFunc(Test));
         }
     }
 }

@@ -49,10 +49,20 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="UML\Решение_задачи_Критический_Путь.docx" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="UML\" />
     <Folder Include="Ввод-вывод\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="UML\Deyatelnosti.PNG" />
+    <Content Include="UML\Klassov.PNG" />
+    <Content Include="UML\Komponentov.PNG" />
+    <Content Include="UML\Posledovatelnosti.PNG" />
+    <Content Include="UML\Potokov_dannih.PNG" />
+    <Content Include="UML\Razvertivaniya.PNG" />
+    <Content Include="UML\Sostoyaniy.PNG" />
+    <Content Include="UML\Variantov_Ispolzov.PNG" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
